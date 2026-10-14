@@ -3,9 +3,6 @@
 Aplicação **React + TypeScript + Vite** criada para servir de base para
 aprendermos testes end-to-end com **Cypress**.
 
-> O Cypress **ainda não** está configurado neste projeto. A ideia é
-> implementá-lo do zero, passo a passo.
-
 ## Pré-requisitos
 
 - Node.js 18+ (recomendado 20+)
